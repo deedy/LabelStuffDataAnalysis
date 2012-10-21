@@ -1,0 +1,20 @@
+1	ceiling
+2	wall
+4	window
+1	wall
+2	wall
+2	outlet
+3	outlet
+3	cabinet
+3	cabinet
+3	extractor hood
+4	stove
+2	cabinet
+3	dishwasher
+2	cabinet
+3	faucet
+3	sink
+2	floor
+0	
+1	Cabinet
+1	cabinet

@@ -1,0 +1,52 @@
+2	vase
+2	cabinets
+0	 ceiling
+0	door
+0	door
+0	door
+2	cabinet
+2	cabinet
+4	ceiling lamp
+2	cabinet
+2	door knob
+2	vase
+0	 flowers in vase
+2	patio chair
+2	 pomagranite
+1	pomagranite
+2	pomagranite
+2	newspaper
+3	wicker chair
+3	wicker chair crop
+3	table
+1	drawer
+1	drawer
+1	drawer
+1	drawer
+1	drawer
+1	vase
+4	pot
+1	bowl
+2	plate
+1	plate
+1	apple
+1	apple
+1	apple
+1	apple
+2	apple
+2	apple
+1	cabinet
+1	cabinet
+1	cabinet
+1	cabinet
+2	cabinet
+4	 pot on a stand
+2	wicker chair
+2	ceiling
+1	flower
+1	window
+1	glass stand
+1	plant
+1	sobha chair
+1	dining table
+1	cupboard

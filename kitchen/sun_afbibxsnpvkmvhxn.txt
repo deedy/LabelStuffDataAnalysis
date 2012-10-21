@@ -1,0 +1,24 @@
+3	outlet
+5	 sink
+3	microwave
+0	cupboards
+3	extractor hood
+4	 wall
+3	cabinet
+4	 worktop
+0	cupboard
+4	stove
+3	coffee maker
+5	 basket
+3	faucet
+2	dishwasher crop
+2	ceiling
+4	cabinet
+4	 cabinet
+3	cabinet
+4	cabinet
+4	cabinet
+3	cabinet
+3	cabinet
+3	cabinet
+1	cabinet

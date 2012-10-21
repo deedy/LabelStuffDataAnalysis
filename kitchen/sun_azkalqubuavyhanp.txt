@@ -1,0 +1,51 @@
+2	 plate food
+0	 plate food
+1	 oven
+1	 cabinet
+1	cabinet
+0	cabinet
+3	 window
+2	 drawer
+3	drawer
+2	drawer
+3	 drawer
+0	cupboard
+0	cupboard
+0	door
+0	dish washer
+1	 ceiling
+3	wall
+2	 cabinet
+1	cabinet
+0	cabinet occluded
+0	cabinet occluded
+0	cabinet occluded
+0	worktop
+0	cabinet
+0	wall
+0	worktop
+0	cabinet
+1	floor
+1	bowl
+0	ceiling lamp
+2	ceiling lamp
+0	extractor hood
+0	vase
+0	bottle
+0	kettle
+0	saucepan
+0	flowers
+0	dishcloth
+1	napkin
+1	bottle
+1	glass
+0	sink
+0	outlet
+1	pineapple
+0	dishwasher occluded
+0	tray
+1	fruits
+1	pot
+0	pitcher
+0	bottle
+1	cabinet

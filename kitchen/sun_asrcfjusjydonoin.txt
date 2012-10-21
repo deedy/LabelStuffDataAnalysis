@@ -1,0 +1,55 @@
+4	 painting
+3	 wine bottle
+3	 wine bottle
+4	 desk lamp
+3	 window
+3	 window
+2	 worktop
+3	 sink
+3	 sink
+3	 cheese
+4	 vase
+4	 flowers
+3	 spoon
+3	 plate
+2	 desk lamp
+2	 pitcher
+3	 kettle
+3	 bowl of vegetables
+3	 worktop
+3	 wine bottle
+3	wine glass
+3	wine glass
+2	wine glass
+2	 wine glass
+0	corkscrew
+2	faucet
+1	faucet
+3	 sink
+2	cheese
+4	grapes
+1	artichokes
+2	bowl of cookies
+2	bowl of cookies
+2	bread
+1	bread
+3	quiche
+1	jar
+1	pot of herbs
+1	basket of flowers
+3	wooden bowl
+1	food platter
+1	bread
+3	cabinets
+1	cabinets
+1	chairs crop
+3	cabinets occluded
+3	cabinets
+3	wall
+1	stove
+1	floor
+1	Painting
+1	Bread
+1	Plate
+1	Cabinets
+1	Flowers

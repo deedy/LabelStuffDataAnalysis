@@ -1,0 +1,66 @@
+3	plant
+0	football trophy
+1	bowl of fruit
+0	bowl of peaches fruit
+2	bowl of peaches fruit
+2	 decorative plate
+1	decorative plates
+0	chandelier
+2	 oven
+1	oven
+1	cabinets
+1	worktop
+1	basket
+2	 containers
+1	kitchen island
+1	 refrigerator
+2	chandelier
+1	bowl
+2	mantle
+1	window
+1	window
+1	cabinet
+0	cabinet
+0	cabinets
+1	drawers
+0	stove
+0	floor
+0	vase
+0	 vase
+0	cabinets
+0	cabinets
+0	 plant
+0	shelf
+0	 vent
+0	ceiling lamp
+0	ceiling lamp
+1	switch
+0	ceiling
+0	 drawer
+2	window
+1	tray
+0	sink
+0	faucet
+0	window
+0	dishwasher
+1	cabinets
+2	cabinets
+3	worktop
+1	wall
+0	object
+1	 ceiling lamp
+0	windows
+0	object
+0	teapot
+1	 teapot
+2	 stove
+1	vent
+1	wall
+0	wall
+0	worktop
+0	wall
+0	cabinet occluded
+0	worktop
+1	plate
+1	window
+1	window

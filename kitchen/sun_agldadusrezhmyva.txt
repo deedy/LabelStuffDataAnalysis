@@ -1,0 +1,65 @@
+4	red pepper
+3	red pepper
+3	lettuce
+4	bottle
+1	baguette
+0	baguette
+3	 pizza
+1	wine glass
+3	wine glass
+1	dish with lobsters
+1	basket
+1	faucet
+4	curtain
+2	 window
+3	 bowls
+2	bowls
+3	 bowl
+1	bowls
+2	 bowls
+2	 cabinet
+3	kettle
+1	stove
+2	bowl
+0	bowl
+0	bowl
+0	urn
+1	sink
+0	rooster
+2	pineapple plant
+0	liquid soap
+2	bowl of fruit
+1	bottle
+1	cabinets
+0	cabinet
+0	cabinets
+0	faucet
+2	kitchen island
+0	salt and pepper
+0	 outlet
+2	 switches
+1	bottle
+0	bottle
+0	bottle
+0	bottle
+0	jar
+0	jar
+0	jar
+0	bowl
+0	 bowl
+0	bottle
+1	ceiling
+0	 switch
+0	switch
+0	faucet
+1	wall
+0	worktop
+0	cutting board
+3	worktop
+1	wall
+1	drawer
+0	stack of dishes
+2	cabinet
+2	extractor hood
+1	basket
+1	stove

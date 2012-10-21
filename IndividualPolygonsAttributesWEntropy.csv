@@ -1,0 +1,132 @@
+Labels,Object,Image,Entropy,Details
+3,ceiling,sun_aalvhwdpyoipnzzy,0.918,2 flat,1 reflective
+3,ceiling lamp,sun_aalvhwdpyoipnzzy,0.918,2 curved,1 glossy
+3,ceiling lamp,sun_aalvhwdpyoipnzzy,1.585,1 bumpy,1 polished,1 reflective
+3,wall,sun_aalvhwdpyoipnzzy,1.585,1 flat,1 glossy,1 smooth
+4,dishwasher,sun_aalvhwdpyoipnzzy,2.0,1 flat,1 polished,1 shiny,1 smooth
+3,worktop,sun_aalvhwdpyoipnzzy,0.918,2 flat,1 polished
+3,sink,sun_aalvhwdpyoipnzzy,0.918,2 shiny,1 curved
+5,floor,sun_aalvhwdpyoipnzzy,1.922,2 polished,1 flat,1 shiny,1 smooth
+3,window,sun_aalvhwdpyoipnzzy,0.918,2 transparent,1 polished
+3,cabinet,sun_aalvhwdpyoipnzzy,0.918,2 flat,1 illuminated
+3,cabinet,sun_aalvhwdpyoipnzzy,0.918,2 flat,1 illuminated
+4,drawers,sun_aavzagnbsbymxlyh,2.0,1 diffuse,1 glossy,1 polished,1 smooth
+4,table,sun_aavzagnbsbymxlyh,1.5,2 flat,1 polished,1 smooth
+4,cabinet,sun_aavzagnbsbymxlyh,2.0,1 diffuse,1 polished,1 shiny,1 smooth
+4,ceiling lamp,sun_aawefvrbscajixha,2.0,1 glossy,1 reflective,1 shiny,1 transparent
+4,window,sun_aawefvrbscajixha,1.5,2 polished,1 flat,1 smooth
+4,sink,sun_aawefvrbscajixha,1.5,2 glossy,1 flat,1 smooth
+4,refrigerator,sun_abdxkyyxwfskuaqb,2.0,1 polished,1 shiny,1 smooth,1 specular
+3,oven,sun_abdxkyyxwfskuaqb,0.918,2 polished,1 shiny
+4,stove,sun_abdxkyyxwfskuaqb,1.5,2 polished,1 flat,1 shiny
+3,ceiling,sun_abdxkyyxwfskuaqb,0.918,2 polished,1 flat
+3,wall,sun_abdxkyyxwfskuaqb,0.918,2 shiny,1 flat
+6,chair,sun_abdxkyyxwfskuaqb,1.918,2 polished,2 shiny,1 smooth,1 specular
+3,cabinet,sun_abdxkyyxwfskuaqb,1.585,1 flat,1 specular,1 wet
+3,cabinet,sun_abdxkyyxwfskuaqb,0.918,2 shiny,1 flat
+3,cabinet,sun_abdxkyyxwfskuaqb,0.918,2 shiny,1 glossy
+3,worktop,sun_abdxkyyxwfskuaqb,1.585,1 fuzzy,1 shiny,1 smooth
+4,floor,sun_abdxkyyxwfskuaqb,2.0,1 flat,1 polished,1 smooth,1 specular
+3,ceiling lamp,sun_abdxkyyxwfskuaqb,1.585,1 curved,1 illuminated,1 polished
+3,ceiling lamp,sun_abdxkyyxwfskuaqb,1.585,1 illuminated,1 polished,1 smooth
+3,ceiling lamp,sun_abdxkyyxwfskuaqb,1.585,1 glossy,1 illuminated,1 polished
+4,pottery,sun_abdxkyyxwfskuaqb,1.5,2 shiny,1 curved,1 reflective
+3,plate,sun_abdxkyyxwfskuaqb,1.585,1 glossy,1 shiny,1 smooth
+4,plate,sun_abdxkyyxwfskuaqb,1.5,2 shiny,1 glossy,1 smooth
+3,plate,sun_abdxkyyxwfskuaqb,1.585,1 glossy,1 shiny,1 smooth
+3,plate,sun_abdxkyyxwfskuaqb,0.918,2 shiny,1 glossy
+3,plant,sun_abdxkyyxwfskuaqb,1.585,1 diffuse,1 occluded,1 smooth
+3,flowers,sun_abdxkyyxwfskuaqb,1.585,1 polished,1 shiny,1 smooth
+3,cabinet,sun_abdxkyyxwfskuaqb,0.918,2 smooth,1 flat
+3,fruit bowl,sun_abykmfxuvnluzbye,1.585,1 diffuse,1 glossy,1 shiny
+3,stove,sun_abykmfxuvnluzbye,0.918,2 shiny,1 polished
+4,chair,sun_accreawivrzlvqyc,0.811,3 polished,1 smooth
+3,window,sun_accreawivrzlvqyc,0.918,2 transparent,1 fuzzy
+3,ceiling,sun_accreawivrzlvqyc,0.918,2 polished,1 flat
+3,cabinet,sun_accreawivrzlvqyc,0.918,2 polished,1 flat
+3,refrigerator occluded,sun_accreawivrzlvqyc,1.585,1 diffuse,1 polished,1 shiny
+3,table crop,sun_accreawivrzlvqyc,0.918,2 polished,1 transparent
+3,switch,sun_accreawivrzlvqyc,1.585,1 flat,1 reflective,1 specular
+3,faucet,sun_adjgnpenryftfwsr,1.585,1 shiny,1 smooth,1 specular
+3,drawers,sun_admzmthmjgmaimfo,0.918,2 translucent,1 polished
+3,wall,sun_admzmthmjgmaimfo,0.918,2 flat,1 occluded
+3,cabinet,sun_admzmthmjgmaimfo,0.0,3 polished
+3,shelf,sun_admzmthmjgmaimfo,0.918,2 reflective,1 polished
+3,frying pan,sun_admzmthmjgmaimfo,0.0,3 shiny
+4,candle,sun_admzmthmjgmaimfo,0.811,3 polished,1 smooth
+3,cakes,sun_admzmthmjgmaimfo,0.0,3 curved
+3,mug,sun_admzmthmjgmaimfo,0.918,2 wet,1 glossy
+4,floor,sun_admzmthmjgmaimfo,0.811,3 polished,1 reflective
+3,fireplace occluded,sun_admzmthmjgmaimfo,0.0,3 fuzzy
+4,teddy bear,sun_admzmthmjgmaimfo,0.811,3 diffuse,1 specular
+4,television,sun_aeqdtdmvphproomc,1.5,2 flat,1 glossy,1 small
+3,clock,sun_aeqdtdmvphproomc,1.585,1 flat,1 fuzzy,1 shiny
+4,cabinets,sun_aeqdtdmvphproomc,2.0,1 flat,1 shiny,1 smooth,1 white
+3,cabinets,sun_aeqdtdmvphproomc,1.585,1 flat,1 shiny,1 white
+3,wall,sun_aeqdtdmvphproomc,1.585,1 flat,1 glossy,1 yellow
+5,outlet,sun_afbibxsnpvkmvhxn,1.522,2 polished,2 shiny,1 smooth
+4,sink,sun_afbibxsnpvkmvhxn,1.5,2 polished,1 curved,1 smooth
+3,microwave,sun_afbibxsnpvkmvhxn,1.585,1 polished,1 shiny,1 transparent
+5,wall,sun_afbibxsnpvkmvhxn,1.371,3 polished,1 flat,1 glossy
+4,worktop,sun_afbibxsnpvkmvhxn,1.5,2 polished,1 flat,1 smooth
+5,stove,sun_afbibxsnpvkmvhxn,1.922,2 polished,1 flat,1 glossy,1 shiny
+5,coffee maker,sun_afbibxsnpvkmvhxn,1.522,2 polished,2 shiny,1 smooth
+4,basket,sun_afbibxsnpvkmvhxn,2.0,1 curved,1 fuzzy,1 polished,1 shiny
+4,faucet,sun_afbibxsnpvkmvhxn,1.5,2 shiny,1 polished,1 water
+4,dishwasher crop,sun_afbibxsnpvkmvhxn,1.5,2 polished,1 shiny,1 smooth
+3,cabinet,sun_afbibxsnpvkmvhxn,0.918,2 polished,1 smooth
+4,cabinet,sun_afbibxsnpvkmvhxn,0.0,4 polished
+3,cabinet,sun_afbibxsnpvkmvhxn,0.0,3 polished
+5,cabinet,sun_afbibxsnpvkmvhxn,0.722,4 polished,1 flat
+3,ceiling lamp,sun_afgbnvgqbsxpomau,0.918,2 transparent,1 illuminated
+4,cabinet,sun_afgbnvgqbsxpomau,1.0,2 polished,2 transparent
+4,wall,sun_afgbnvgqbsxpomau,2.0,1 flat,1 polished,1 reflective,1 specular
+3,wall,sun_afgbnvgqbsxpomau,1.585,1 flat,1 polished,1 reflective
+4,cabinet,sun_afgbnvgqbsxpomau,0.811,3 polished,1 flat
+3,cabinet occluded,sun_afgbnvgqbsxpomau,0.0,3 polished
+5,cabinet,sun_afgbnvgqbsxpomau,0.722,4 polished,1 flat
+3,worktop,sun_afgbnvgqbsxpomau,1.585,1 flat,1 glossy,1 specular
+3,kitchen island,sun_afgbnvgqbsxpomau,1.585,1 flat,1 glossy,1 polished
+3,table crop,sun_afgbnvgqbsxpomau,1.585,1 flat,1 polished,1 smooth
+4,chair crop,sun_afgbnvgqbsxpomau,1.5,2 shiny,1 flat,1 polished
+4,floor,sun_afgbnvgqbsxpomau,1.5,2 glossy,1 flat,1 reflective
+3,stove,sun_afgbnvgqbsxpomau,0.918,2 shiny,1 flat
+3,faucet,sun_afgbnvgqbsxpomau,1.585,1 curved,1 polished,1 shiny
+3,grinder,sun_afgbnvgqbsxpomau,1.585,1 curved,1 polished,1 shiny
+3,bottle,sun_agldadusrezhmyva,0.918,2 transparent,1 shiny
+3,bowls,sun_agldadusrezhmyva,1.585,1 diffuse,1 glossy,1 polished
+3,ceiling fan,sun_aglhwqwshtekvlfq,1.585,1 occluded,1 polished,1 shiny
+3,stove,sun_aglhwqwshtekvlfq,0.0,3 shiny
+3,sink,sun_aglhwqwshtekvlfq,1.585,1 diffuse,1 flat,1 wet
+3,ceiling,sun_aglhwqwshtekvlfq,0.918,2 shiny,1 flat
+5,ceiling lamp,sun_aglwoufpxbtxqecp,2.322,1 good design,1 illuminated,1 shiny,1 smooth,1 translucent
+4,kettle,sun_aglwoufpxbtxqecp,1.5,2 shiny,1 glossy,1 good looking
+4,bowl,sun_aglwoufpxbtxqecp,1.5,2 glossy,1 curved,1 smooth
+3,bowl of apples,sun_aglwoufpxbtxqecp,1.585,1 glossy,1 smooth,1 transparent
+6,door,sun_aglwoufpxbtxqecp,1.792,3 polished,1 flat,1 shiny,1 wood
+6,wine glass,sun_aglwoufpxbtxqecp,1.252,4 transparent,1 glossy,1 good shape
+3,stove,sun_aglwoufpxbtxqecp,0.918,2 glossy,1 flat
+3,switches,sun_aglwoufpxbtxqecp,0.918,2 flat,1 smooth
+3,floor,sun_aglwoufpxbtxqecp,1.585,1 flat,1 polished,1 smooth
+4,cabinet,sun_aglwoufpxbtxqecp,1.5,2 flat,1 polished,1 smooth
+3,drawers,sun_aglwoufpxbtxqecp,1.585,1 flat,1 polished,1 smooth
+7,table,sun_aglwoufpxbtxqecp,2.236,2 polished,2 smooth,1 flat,1 flat sahpe,1 transparent
+3,apple,sun_aglwoufpxbtxqecp,1.585,1 curved,1 shiny,1 smooth
+3,stove,sun_ahvpoenucqfbjkep,1.585,1 flat,1 polished,1 shiny
+7,kettle,sun_ahvpoenucqfbjkep,1.95,2 curved,2 polished,2 shiny,1 illuminated
+3,microwave,sun_aiffeoqzngslhzfi,1.585,1 diffuse,1 glossy,1 illuminated
+3,worktop,sun_aiffeoqzngslhzfi,1.585,1 flat,1 polished,1 smooth
+3,wall,sun_aiffeoqzngslhzfi,0.918,2 glossy,1 specular
+3,plate,sun_aiffeoqzngslhzfi,0.918,2 shiny,1 polished
+3,outlet,sun_aiffeoqzngslhzfi,1.585,1 diffuse,1 flat,1 shiny
+3,cabinet,sun_aiffeoqzngslhzfi,1.585,1 flat,1 polished,1 shiny
+3,cabinet,sun_aiffeoqzngslhzfi,1.585,1 diffuse,1 shiny,1 smooth
+3,sink,sun_aihqqhkbilvntzdn,0.918,2 shiny,1 reflective
+3,stove,sun_ajnvbqoszcilcmds,1.585,1 flat,1 glossy,1 polished
+3,wall,sun_ajnvbqoszcilcmds,1.585,1 flat,1 glossy,1 occluded
+3,door occluded,sun_ajnvbqoszcilcmds,1.585,1 fuzzy,1 polished,1 smooth
+4,stool,sun_akawyfrupyqgxlpb,2.0,1 curved,1 fuzzy,1 polished,1 soft
+3,cabinet door,sun_akawyfrupyqgxlpb,0.918,2 transparent,1 flat
+3,dishcloth,sun_akawyfrupyqgxlpb,0.918,2 smooth,1 fuzzy
+4,microwave,sun_akawyfrupyqgxlpb,2.0,1 glossy,1 polished,1 smooth,1 transparent
+3,worktop,sun_akawyfrupyqgxlpb,0.918,2 flat,1 polished

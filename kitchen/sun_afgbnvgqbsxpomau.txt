@@ -1,0 +1,40 @@
+0	
+0	chair
+3	ceiling lamp
+2	cabinet
+0	cupboard
+0	 stove
+2	 sink
+2	ceiling
+4	wall
+0	wall
+4	 cabinet
+3	cabinet occluded
+2	extractor hood
+3	cabinet
+4	cabinet
+3	worktop
+2	kitchen island
+2	table crop
+3	chair crop
+3	floor
+2	stove
+1	board
+2	melon
+2	orange
+2	pear
+2	fruit
+2	fruit
+2	teapot
+2	pot
+2	faucet
+2	fruit
+2	bananas
+1	fruit
+2	grinder
+1	scales
+2	wall
+1	lamp
+1	cabinet
+1	kitchen island
+1	ceiling lamp

@@ -1,0 +1,72 @@
+0	sink
+0	doom light
+0	friuts
+3	 rug
+0	window
+2	ceiling
+2	wall
+2	wall
+3	 window
+1	cabinet
+3	 curtain
+1	 worktop
+2	 cabinet
+2	 cabinet
+1	 cabinet
+1	microwave
+3	 cabinet
+1	cabinet occluded
+1	oven occluded
+1	cabinet occluded
+3	dishwasher occluded
+2	 cabinet
+1	kitchen island
+3	 sink
+3	 faucet
+2	basket
+1	fruits
+3	napkin
+0	napkin
+2	rug
+1	rug
+3	refrigerator
+2	 floor
+2	desk lamp
+1	sink
+0	faucet
+1	 coffee maker
+1	pot
+0	stove
+4	ceiling lamp
+1	jug
+0	basket
+0	pot
+0	pot
+1	pot
+0	pot
+1	pot
+1	 statue
+1	statue
+0	plant
+2	 clock
+1	stool occluded
+1	stool occluded
+1	pottery
+0	plant
+0	plant
+0	basket
+1	mug
+0	saltcellar
+1	cup
+0	teapot
+1	Stool occluded
+1	sink
+1	cabinet
+1	floor
+1	stool top
+1	sink
+1	cabinet
+1	pot
+1	Chair
+1	Curtain
+1	Microwave

@@ -1,0 +1,97 @@
+3	chair
+0	chair
+1	flowers
+0	basket
+0	bowl of fruit
+1	plate
+4	 plates
+0	plates
+1	basket
+1	chandelier
+1	stove
+2	sink
+0	faucet
+1	stained glass
+2	stained glass
+1	stained glass
+2	window
+0	beam
+1	beam
+0	plant
+0	vase
+0	 bottles
+0	bottles
+0	box of tea
+2	picture
+1	picture
+1	picture
+1	picture
+1	picture
+1	picture
+1	plate
+0	picture
+0	picture
+0	pitcher
+0	candlesticks
+1	cup and saucer
+0	stained glass
+0	plum
+0	plum
+0	faucet
+1	sink
+0	stack of plates
+1	forks
+1	pastries
+0	pastries
+1	 chair
+0	cushion
+0	sofa occluded
+0	cushion
+0	cushion
+0	vase
+0	ceiling
+1	wall
+0	cabinets
+1	cabinets
+1	plant
+0	urn
+0	platter
+0	bowl
+0	plant
+0	jar
+0	platter
+0	platter
+0	urn
+0	plant
+0	 glasses
+0	 glasses
+0	cook books
+1	plate
+0	saucers and tea cups
+0	tea canister
+0	tea canister
+0	cook books
+0	canister
+0	 utensils
+2	teapot
+1	cabinets
+2	cabinets
+3	worktop
+1	 plates
+0	canister
+1	bowl of towels
+1	dishwasher
+2	floor
+0	basket
+0	plate
+0	pitcher
+0	vase
+1	towel
+1	potted flowers
+0	flowers in vase
+0	doilie
+2	table
+0	vase
+1	flowers
+1	floor
+1	cabinet

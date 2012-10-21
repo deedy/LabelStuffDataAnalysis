@@ -1,0 +1,53 @@
+4	carpet
+5	vase
+0	cupboard
+3	sink
+4	 stove
+4	floor
+3	ceiling
+0	wall
+4	wall
+3	wall
+3	door occluded
+3	cabinet
+3	cabinet
+4	 cabinet
+2	cabinet occluded
+3	kitchen island
+2	wall
+2	window crop
+5	kettle
+3	plate
+2	tray
+1	pumpkin
+1	pumpkin occluded
+3	worktop
+2	worktop
+1	cabinet
+2	cabinet
+1	cabinet
+3	 drawers
+2	baseboard
+2	 glass
+1	glass
+2	plate
+3	bottle
+1	plate occluded
+1	statue
+1	statue
+2	 box
+2	jar
+1	bottle
+3	plant
+1	plant
+2	bowl
+1	plate occluded
+1	faucet
+3	 window occluded
+1	glass
+1	glass
+4	 glass
+3	 wall
+3	cabinet
+1	plates
+1	carpet

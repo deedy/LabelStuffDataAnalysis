@@ -1,0 +1,82 @@
+Material,Attribute,Object,Name,Details
+589,311,275,cabinet,467 wood,38 laminate,30 cabinet,14 paper,40 other
+381,197,196,wall,110 brick,100 ceramic,54 wood,34 stone,21 wall,18 paper,44 other
+210,126,104,worktop,106 stone,37 wood,26 ceramic,8 laminate,8 worktop,7 glass,5 metal,13 other
+191,119,77,floor,67 ceramic,46 wood,34 stone,13 laminate,10 floor,6 fabric,15 other
+171,84,73,window,109 glass,38 wood,14 window,5 metal,5 other
+171,99,99,ceiling lamp,93 glass,20 metal,20 plastic,13 ceiling,6 fabric,19 other
+162,83,68,stove,124 metal,16 stove,6 glass,4 ceramic,12 other
+140,67,59,sink,105 metal,9 ceramic,8 sink,4 glass,4 stone,10 other
+119,68,78,cabinets,90 wood,11 cabinet,5 metal,4 paper,3 laminate,6 other
+111,58,48,plate,34 plastic,33 ceramic,17 plate,7 glass,6 metal,5 fabric,3 paper,3 plant,3 other
+104,56,59,ceiling,32 brick,20 wood,17 ceramic,8 cement,6 ceiling,4 paper,4 stone,3 fabric,3 plaster,7 other
+95,50,41,chair,53 wood,9 metal,9 plastic,8 chair,3 laminate,13 other
+90,35,35,microwave,49 metal,10 ceramic,9 microwave,7 glass,7 plastic,5 fabric,3 other
+86,38,40,oven,56 metal,8 fabric,6 glass,5 oven,11 other
+81,35,30,refrigerator,50 metal,10 refrigerator,8 fabric,3 wood,10 other
+74,38,50,faucet,58 metal,4 wood,3 faucet,3 plastic,6 other
+71,39,52,plant,40 plant,17 plastic,3 fabric,11 other
+63,25,39,drawer,46 wood,5 fabric,5 paper,3 drawer,4 other
+62,27,26,flowers,31 plant,15 plastic,6 flower,3 fabric,7 other
+62,23,50,pot,24 ceramic,9 pot,7 glass,5 metal,3 plastic,14 other
+59,36,44,bowl,22 glass,11 ceramic,8 plastic,7 bowl,4 metal,7 other
+58,37,17,table,39 wood,8 glass,4 table,7 other
+57,21,23,extractor hood,34 metal,9 wood,5 extractor,3 fabric,6 other
+51,23,38,outlet,30 plastic,6 fabric,4 wood,3 metal,3 outlet,5 other
+50,19,26,door,38 wood,3 door,9 other
+50,19,18,curtain,36 fabric,9 curtain,5 other
+45,26,34,glass,35 glass,5 ceramic,4 plastic,1 other
+43,22,17,wine glass,30 glass,8 wine,4 water,1 other
+43,24,25,mug,17 plastic,12 ceramic,5 glass,5 mug,4 metal,0 other
+43,21,14,chair occluded,25 wood,8 metal,5 chair,4 plastic,1 other
+41,13,18,apple,29 food,5 apple,4 fruit,3 other
+41,27,16,kettle,28 metal,4 kettle,9 other
+40,17,41,jar,23 glass,5 jar,5 plastic,4 ceramic,3 other
+37,24,33,bottle,22 glass,6 plastic,4 bottle,5 other
+37,24,27,cabinet occluded,24 wood,4 cabinet,3 laminate,6 other
+36,23,24,basket,25 plastic,11 other
+35,19,31,vase,19 ceramic,5 plastic,4 glass,7 other
+35,21,19,painting,9 laminate,8 paper,6 wood,5 glass,3 fabric,4 other
+34,19,21,dishwasher,23 metal,3 fabric,8 other
+30,16,16,teapot,13 metal,5 glass,4 ceramic,8 other
+30,7,14,handle,20 metal,4 handle,3 plastic,3 other
+29,14,10,table crop,13 wood,8 glass,5 fabric,3 other
+28,15,12,coffee maker,14 metal,6 plastic,4 coffee,4 other
+28,20,18,kitchen island,17 wood,6 stone,5 other
+28,15,11,drawers,22 wood,4 drawer,2 other
+28,14,17,dishcloth,17 fabric,4 dishcloth,7 other
+25,15,20,tray,7 plastic,4 ceramic,3 glass,3 metal,3 tray,5 other
+25,9,11,cabinet crop,19 wood,6 other
+24,8,14,candle,12 wax,3 stone,3 wood,6 other
+22,10,19,cup,6 ceramic,4 cup,3 fabric,3 wood,6 other
+22,12,11,rug,13 fabric,4 rug,5 other
+22,8,13,shelf,7 wood,4 metal,4 shelf,7 other
+21,15,19,switch,17 plastic,4 other
+20,12,8,frying pan,17 metal,3 other
+20,14,15,plant pot,9 ceramic,3 plastic,8 other
+17,11,7,books,17 paper,0 other
+17,11,5,chair crop,10 wood,3 metal,4 other
+16,1,9,bag,9 leather,6 paper,1 other
+16,6,19,plates,5 plate,3 ceramic,8 other
+16,6,7,stool,9 wood,4 metal,3 other
+16,8,5,carpet,9 fabric,7 other
+15,6,4,wine bottle,14 glass,1 other
+15,8,12,picture,4 glass,4 wood,7 other
+15,11,6,orange,7 food,8 other
+15,7,9,napkin,10 fabric,5 other
+14,7,5,desk lamp,3 desk,3 glass,8 other
+14,3,6,fruit,5 fruit,4 plant,5 other
+13,3,2,trash can,10 plastic,3 trash,0 other
+13,5,6,clock,5 glass,3 clock,3 metal,2 other
+13,7,7,bowls,6 glass,7 other
+13,7,3,door occluded,7 wood,6 other
+13,6,5,soap bottle,7 plastic,3 glass,3 other
+12,3,8,glasses,8 glass,4 other
+12,7,7,chandelier,9 metal,3 other
+12,2,10,bread,4 wheat,3 food,5 other
+12,2,10,knob,8 metal,3 wood,1 other
+12,6,4,switches,9 plastic,3 other
+11,8,4,shelves,6 wood,4 metal,1 other
+11,6,7,grapes,7 food,4 other
+11,9,6,saucepan,10 metal,1 other
+940,420,852,Other Objects

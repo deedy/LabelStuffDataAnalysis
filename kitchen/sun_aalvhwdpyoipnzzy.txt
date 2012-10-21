@@ -1,0 +1,25 @@
+5	ceiling
+5	ceiling lamp
+5	ceiling lamp
+3	wall
+3	window
+4	cabinet
+4	cabinet
+4	wall
+3	extractor hood crop
+4	 stove crop
+3	cabinet
+3	drawer
+3	cabinet
+4	dishwasher
+4	cabinet
+5	worktop
+5	sink
+3	faucet
+1	faucet
+2	faucet
+1	faucet
+2	dishcloth
+4	floor
+1	cabinet
+1	cabinet

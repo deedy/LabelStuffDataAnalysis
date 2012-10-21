@@ -1,0 +1,24 @@
+3	cabinet
+2	sink
+2	faucet
+2	oven occluded
+4	stove
+2	 worktop
+3	 cabinet
+3	wall
+3	cabinet
+4	 coffee maker
+2	photo machine
+4	 ashtray
+4	 pot
+2	outlet
+3	 refrigerator
+1	wall
+1	door
+2	 wall
+1	trash can crop
+3	 floor
+1	wall
+2	outlet occluded
+1	Photo machine
+1	stove
