@@ -1,0 +1,27 @@
+4	orange
+3	orange
+4	 ceiling lamp
+3	teapot
+4	oven
+4	 stove
+3	 microwave
+2	wall
+3	cabinet
+4	 column
+3	oven occluded
+4	 wall
+3	worktop
+3	 cabinets
+4	 floor
+2	 orange occluded
+4	 vase
+3	worktop
+1	teapot
+1	glass shelf
+1	glass shelf
+1	window
+1	door
+1	cabinet
+1	bowl
+1	bowl
+0	

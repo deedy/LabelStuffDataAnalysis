@@ -1,0 +1,34 @@
+5	 stool
+4	 cabinet door
+2	saucepan
+3	dishcloth
+0	cupboard door
+0	cupboard door
+0	cupboard door
+0	 rug
+2	 mirror
+2	knob
+1	faucet
+1	sconce
+4	 microwave
+2	oven
+2	cabinet
+0	cabinet
+2	rug
+0	cupboards
+5	 worktop
+1	cabinet
+3	wall
+4	floor
+1	cabinet
+0	cabinet
+1	cabinet
+1	cabinet
+2	pitcher
+1	mirror
+1	Fruits
+1	Apple
+1	Towel
+1	jar
+1	pot
+1	cup

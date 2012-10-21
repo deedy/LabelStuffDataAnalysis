@@ -1,0 +1,68 @@
+3	 microwave
+1	oven
+0	plate
+1	plate
+2	 plate
+1	worktop
+0	candle
+1	candle
+0	ladle
+0	flower basket
+0	pot hanger
+1	 pots
+0	lion plate
+4	rug
+1	worktop
+0	sculpture
+0	sculpture
+0	sculpture
+0	sculpture
+2	ceiling lamp
+0	box
+0	ceiling lamp
+0	clock
+0	 hourglass
+1	plate
+1	books
+2	books
+1	glasses
+1	glasses
+0	jar of beans
+0	shell
+1	decoration glass
+0	sculpture
+0	sculpture
+2	cabinets
+3	 cabinets
+1	ceiling
+0	object
+0	object
+1	cabinets
+1	 stove
+1	plate
+1	 scales
+2	cabinet
+0	objects
+1	glasses
+0	pitcher
+0	jar
+0	platter
+1	worktop
+0	sculpture
+1	lion statue
+2	 basket
+2	flowers
+1	wall
+1	floor
+0	drawer crop
+1	wall
+3	frying pan
+1	cabinet
+1	flower
+1	rug
+1	cabinet
+1	glasses
+1	frying pan
+1	cabinet
+1	cadle
+0	

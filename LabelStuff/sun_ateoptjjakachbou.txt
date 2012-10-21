@@ -1,0 +1,46 @@
+2	microwave
+2	oven
+3	chandelier
+3	bag
+1	dish soap
+2	stool
+3	stool
+1	stove
+1	dishwasher
+3	sink
+2	faucet
+2	soap dispenser
+1	pressure washer
+2	 switch
+3	sliding glass door
+1	stack of wood
+3	cabinets
+5	cabinets
+0	eyeglasses
+0	 switch
+0	 switch
+0	outlet
+0	 outlet
+0	 outlet
+0	 outlet
+2	window
+0	countertop
+0	ceiling lamp
+1	floor
+0	island
+1	cabinets
+0	cabinets
+0	worktop
+0	ceiling lamp
+1	ceiling lamp crop
+1	 refrigerator
+3	cabinets
+0	ceiling
+0	wall
+0	wall
+2	kitchen island
+1	Fridge
+1	ceiling
+1	cabinet
+1	table top
+1	switch

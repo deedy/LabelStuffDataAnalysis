@@ -1,0 +1,85 @@
+0	pepergrinder
+0	bowl of vegetables
+3	mug
+2	 stove
+4	kettle
+1	 oven
+0	microwave
+1	books
+1	dishcloth
+1	wine refrigerator
+2	 chair
+1	chair
+1	chair
+2	 wine glass
+0	wine glass
+1	bottle
+0	cheese
+1	drawer
+2	cabinet
+0	glass
+0	glass
+0	porcelain fish
+1	cabinet
+0	refrigerator
+0	serving spoon
+2	window
+0	flowers
+2	 plate
+1	plate
+0	grapes
+0	grapes
+0	 bread
+2	 bread
+0	cheese
+0	cheese
+1	flowers
+0	porcelain fish
+0	plates
+0	ceiling lamp
+0	ceiling lamp
+0	ceiling lamp
+0	ceiling lamp
+0	ceiling lamp
+0	ceiling lamp
+0	ceiling lamp
+0	potted plant
+1	worktop
+0	dishcloth
+1	frying pan
+1	brocoli
+1	potatoes
+0	bowl of bread
+1	wine glasses
+0	bowl
+2	 table
+0	cabinet
+1	 cabinet
+0	spoon holder
+1	knife
+1	tray
+0	dishes
+0	mug and saucer
+0	plates
+0	plates
+0	plates
+0	chair occluded
+0	worktop
+0	cabinets
+0	cabinet
+1	door
+0	ceiling
+1	wall
+1	floor
+0	cabinets
+1	 book
+0	stool
+0	knife
+1	wall
+1	wall
+0	knife
+0	knife
+0	floor
+0	vase occluded
+1	PLATE
+0	

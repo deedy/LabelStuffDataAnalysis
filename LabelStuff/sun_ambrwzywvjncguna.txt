@@ -1,0 +1,56 @@
+4	microwave
+1	bowl
+3	 oven
+1	pot
+1	stove
+2	painting
+2	teapot
+1	candle
+2	 candle
+2	vase
+2	 sink
+0	potted herb
+0	potted herb
+2	glassware
+1	pot
+2	pot
+1	bowls
+1	wall spotlight
+1	wall spotlight
+1	jar
+2	cabinet
+1	table crop
+0	worktop
+0	urn
+0	vase
+0	phone
+1	 switch
+0	outlet
+0	candleholder
+0	cabinet crop
+2	mug
+1	 utensil canister
+0	cabinets
+2	cabinet
+1	ceiling
+1	worktop
+0	worktop
+2	cabinet
+0	ceiling
+3	wall
+0	cabinet
+3	floor
+0	cabinet
+1	curtain
+3	handle
+2	wall
+2	plant pot
+0	plant
+0	plant pot
+0	plant
+1	wall
+1	Microwave
+1	floor
+1	window
+1	photo frame
+1	box

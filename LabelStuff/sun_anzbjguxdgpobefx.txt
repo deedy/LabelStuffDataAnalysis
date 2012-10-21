@@ -1,0 +1,30 @@
+5	mug
+3	mug
+4	toaster
+3	kettle
+4	outlet
+2	outlet
+3	handle
+3	handle
+4	handle
+3	plate
+2	stove
+3	refrigerator
+2	cabinet
+1	cabinet
+2	extractor hood
+1	cabinet
+1	cabinet
+3	worktop
+2	wall
+2	wall
+2	paper cup
+1	cabinet
+1	kettle
+1	cabinet
+1	toaster
+1	Hob
+1	kettle
+1	outlet
+1	plate
+1	worktop

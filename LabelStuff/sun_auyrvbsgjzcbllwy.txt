@@ -1,0 +1,95 @@
+2	apron
+0	dishcloth
+2	window
+0	jar of cooking utensils
+1	dish rack
+2	drawers
+1	sandwiches
+1	plates
+0	plant
+0	plant
+2	soap bottle
+2	floor
+1	floor
+1	jar
+1	bowl
+0	faucet
+0	vase
+0	pickles
+0	knives
+0	plate of food
+0	chips
+0	sandwich
+0	mixer
+1	bowl
+0	sailboat
+1	cups
+1	jar
+0	jar
+0	jar
+1	jar
+2	microwave
+0	jar
+0	jar
+0	bowl
+0	cups
+0	wisk
+1	plates
+0	glasses
+2	flowers
+0	ceiling
+0	painting
+0	pitcher
+0	pot
+0	vase
+0	pitcher
+2	 plate
+1	plate
+0	painting
+0	roman shade
+0	shudder
+1	cabinets
+3	stove
+0	pepper mill
+0	tray
+3	cabinets
+1	basket of towels
+1	toaster
+1	cutting board
+1	 bottle
+0	glass
+1	worktop
+0	cabinets
+1	worktop
+0	cabinets
+0	dishwasher
+0	worktop
+0	cabinets
+0	vase
+0	plant
+0	pitcher
+0	twizlers in a cup
+1	bowl
+2	sink
+1	plate
+3	 books
+0	pitcher
+1	wall
+0	whisk
+1	drawers
+1	drawer
+0	wall
+0	plate
+1	pot
+0	utensils
+1	drawer
+1	dishwasher controls
+1	cabinet door
+1	knob
+1	knob
+1	Stove
+1	Apron
+1	drawers
+1	Cabinets
+1	Cabinets
+1	cabinet

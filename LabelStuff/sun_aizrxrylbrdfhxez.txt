@@ -1,0 +1,74 @@
+4	 clock
+1	ceiling lamp
+2	ceiling lamp
+0	basket
+0	refrigerator
+1	freezer
+0	kitchen utensils
+0	lemons
+1	bowl
+0	vase of flowers
+2	flowers
+0	basket of bread
+0	mill
+1	plate
+1	faucet
+2	picture
+2	curtain
+1	curtain
+1	 potted plant
+0	potted plant
+2	baskets
+0	bottle
+0	bottles
+1	pumpkin
+0	vase
+0	porcelain cookware
+1	cabinet
+1	window
+2	basket
+0	chair
+1	sink
+1	 jar
+0	worktop
+1	bottle
+0	stove
+0	potted plant
+0	potted plant
+1	dishwasher
+0	potted plant
+0	basket of bread
+0	cup and saucer
+0	napkin
+0	bottle
+0	soap dish
+0	dishcloth
+0	tray
+0	jar
+0	cabinets
+1	cabinets
+0	cabinet
+0	cabinet
+0	kitchen island
+1	cloth
+0	jar
+0	metal teapot
+0	 jar
+0	 morar and pestle
+0	tray
+0	vase
+0	flowers
+0	wall
+0	ceiling
+0	wall
+2	wall
+0	shelf
+1	floor
+0	worktop
+0	cabinets
+1	kitchen utensils
+1	chair
+1	pumpkin
+1	lamp
+1	floor
+0	

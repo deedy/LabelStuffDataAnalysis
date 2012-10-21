@@ -1,0 +1,50 @@
+2	clock
+0	extractor hood
+2	stove
+1	switch
+1	switch
+0	outlet
+0	 switch
+0	jar of utensils
+1	spices
+0	cocktail glass
+0	cocktail glass
+0	martini shaker
+3	sink
+1	faucet
+0	dishwasher
+0	rug
+2	picture
+2	plant
+2	potted plant
+0	tray
+2	worktop
+0	 countertop
+2	cabinet
+0	cabinet
+0	worktop
+1	 floor
+0	cabinets
+1	cabinets
+3	dishcloth
+2	bottle
+1	plant
+1	napkin
+0	napkin
+0	outlet
+0	jar
+2	wall
+1	windowsill
+1	wall
+0	wall
+2	worktop
+0	cabinet
+1	burner
+1	oven rack
+1	cutting board
+1	counter top
+1	knob
+1	control knobs
+1	stove
+1	sink
+1	cabinet

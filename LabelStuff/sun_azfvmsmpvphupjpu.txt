@@ -1,0 +1,57 @@
+5	cabinet
+5	refrigerator
+3	microwave
+4	window
+4	bottle
+1	wall
+1	wall
+1	wall
+4	baby highchair
+4	cabinet crop
+1	dishwasher occluded
+2	shelves
+2	cabinet
+1	cabinet
+2	stove
+2	cabinet
+3	worktop
+2	cabinet
+1	extractor hood
+1	cabinet
+1	worktop
+4	sink
+1	teapot
+1	outlet
+3	mug
+1	mug occluded
+2	mug
+1	outlet
+3	table
+4	chair occluded
+2	chair occluded
+2	chair occluded
+1	chair occluded
+2	 chair occluded
+1	pot
+1	pot
+1	pot
+2	dish rack
+1	soap bottle
+1	saucepan
+1	coffeepot
+1	picture
+3	floor
+3	chair crop
+1	notebook occluded
+1	can occluded
+1	Chairs
+1	Window
+1	Refrigerator, baby high chair
+1	Microwave
+1	Window
+1	Table Cloth
+1	Floor
+1	Cabinet
+1	Wall
+1	Wall
+1	Wall

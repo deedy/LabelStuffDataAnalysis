@@ -1,0 +1,66 @@
+2	cook books
+3	 microwave
+0	microwave
+3	wine bottle
+3	stove
+4	sink
+2	coffee maker
+2	window
+1	oil bottle
+1	vinegar bottle
+2	faucet
+2	extractor hood
+2	cabinets
+1	cabinets
+3	cabinets
+0	cabinets
+1	cabinets
+1	salt and pepper
+1	salt and pepper
+0	vase of flowers
+0	cup and saucer
+0	metal coffee grinder
+0	pestle
+1	milk steaming cup
+0	tomato
+0	garlic
+0	bottle
+0	bottle
+2	wok
+0	jar
+0	bowl
+1	cup
+0	onion
+0	tomato
+0	tomato
+0	bell pepper
+0	dishwasher
+0	faucet
+0	knife
+0	cutting board
+0	drawer
+0	worktop
+1	drawer
+0	drawer
+0	cabinet
+1	cabinet
+0	pot
+0	 cabinet
+1	drawer
+0	drawer
+1	sink
+0	 plates
+1	 plates
+1	open plan
+2	wine glass
+0	wine glass
+0	dishcloth
+0	cabinet
+0	wall
+0	vase
+1	flowers
+1	cabinet occluded
+0	cabinet
+1	wall
+0	cabinet
+2	floor

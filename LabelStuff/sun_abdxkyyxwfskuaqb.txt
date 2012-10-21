@@ -1,0 +1,43 @@
+3	painting
+4	carpet
+2	refrigerator
+2	oven
+2	stove
+1	cabinet
+0	chair
+1	ceiling
+2	wall
+1	cabinet
+4	chair
+2	wall
+3	wall
+2	cabinet
+3	cabinet
+1	cabinet
+1	cabinet
+1	cabinet
+2	worktop
+3	cabinet
+4	floor
+4	ceiling lamp
+1	ceiling lamp
+2	ceiling lamp
+2	ceiling lamp
+2	pottery
+2	plate
+3	plate
+3	plate
+3	plate
+3	plate
+2	plate
+2	plate
+3	 plate
+2	plate
+2	plate
+3	plate
+2	plant pot
+3	plant
+1	vase
+2	flowers
+2	wall
+1	cabinet

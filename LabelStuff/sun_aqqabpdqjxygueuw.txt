@@ -1,0 +1,90 @@
+1	sink
+2	cabinet
+2	 window
+1	plant
+1	utensils
+2	desk lamp
+2	wall decoration
+2	 ceiling lamp
+1	ceiling lamp
+2	 ceiling lamp
+0	plant
+2	 cup of spoons
+1	faucet
+1	refrigerator
+1	ceiling lamp
+1	ceiling lamp
+1	ceiling lamp
+1	ceiling lamp
+1	ceiling lamp
+2	 ceiling lamp
+1	ceiling lamp
+0	 outlet
+1	 outlet
+0	glass orb
+0	kitchen island
+1	plant
+0	jars
+0	jars
+2	bottles
+1	orange
+0	lemons
+0	limes
+0	bowl of vegetables
+0	curtain
+1	dishwasher
+0	 decanter
+0	decanter
+1	decanter
+0	 artichoke
+1	pepper
+1	plant
+2	jar
+1	jar
+1	ceiling
+2	cabinet
+2	worktop
+1	canister
+1	canister
+1	dispenser
+1	extractor hood
+2	plate
+0	potted plant
+0	rock
+0	cabinet
+1	wall
+1	object
+3	 floor
+1	glass
+0	bottle
+1	tray
+2	 door
+3	 worktop
+1	cabinets
+1	wall
+2	worktop
+1	stove
+1	floor
+2	board
+0	lemon
+0	lemon occluded
+0	lime
+3	plant pot
+1	plant
+0	plant pot occluded
+0	plant
+1	cabinet occluded
+1	Floor
+1	Work top
+1	Stove
+1	Cup of spoons
+1	Door
+1	Ktchen Table
+1	Cabinet
+1	Floor
+1	Wall
+1	burner
+1	stove control knob
+1	oven handle
+1	vent
+1	pillar

@@ -1,0 +1,23 @@
+1	toaster
+3	coffee maker
+3	microwave
+4	table leg
+3	 book
+3	curtain
+1	window occluded
+1	 wall
+3	 curtain
+2	 wall
+1	wall
+5	 floor
+2	stand
+5	table
+5	 chair
+2	chair occluded
+2	stove
+1	tile
+1	chord
+1	leg brace
+1	shelf
+1	chair leg
+1	VCR

@@ -1,0 +1,56 @@
+1	 dishwasher
+3	 faucet
+1	 sink
+0	basket of plants
+0	vase of flowers
+3	 candle
+1	 candle
+1	 candle
+1	 candle
+1	sun mask
+0	kettle
+2	urn
+0	stove
+3	 champaign bucket
+2	 champaign
+0	pitcher
+0	decanter
+0	decanter
+1	 platter of food
+0	bowl of garlic
+1	 cabinet
+3	 cabinets
+1	 dried flowers
+1	 worktop
+4	 worktop
+1	kitchen island
+3	garlic
+3	 glass table
+2	 plate of food
+2	flowers
+0	object
+2	 bucket
+1	 worktop
+2	 worktop
+1	 worktop
+1	 cabinets
+1	 cabinet
+0	bench crop
+0	cabinet
+3	 floor
+1	 wall
+0	wall
+1	 wall
+0	window
+1	wall
+0	wall
+2	window
+0	vase occluded
+3	 flowers
+0	cabinet occluded
+0	wall
+0	wall
+0	basket
+3	plants
+1	wood
+1	CABINET

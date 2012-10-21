@@ -1,0 +1,55 @@
+0	
+3	 windows
+4	 table
+1	ceiling
+1	extractor hood
+0	platter
+3	 chair crop
+1	 measuring spoons
+1	kettle
+4	plant
+3	bowl
+1	sink
+0	faucet
+0	dishwasher
+0	ceiling lamp
+1	decorative plates
+0	decorative plate
+0	 dishes
+1	 plates
+1	cup
+1	kitchen island
+0	ceiling lamp
+1	dish rack
+0	basket
+3	mug
+2	spoon
+0	cup
+2	bowl of fruit
+0	plate of salad
+1	peach
+1	peach
+0	peach
+4	 magazine
+1	teapot
+0	cabinet occluded
+0	large rabbit
+0	 rabbit
+0	drawers
+2	cabinet
+2	worktop
+3	stove
+0	worktop
+1	 chandelier
+0	potted plant
+1	 floor
+0	wall
+1	 wall
+1	 wall
+0	plant pot
+0	plant
+1	 flowers
+1	Plant
+1	Chair
+1	Magazine
+1	Floor

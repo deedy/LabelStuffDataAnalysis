@@ -1,0 +1,45 @@
+4	ceiling fan
+3	stove
+2	ceiling lamp
+0	 countertop
+2	worktop
+0	cabinets
+3	refrigerator
+3	sink
+1	microwave
+3	ceiling
+2	wall
+3	cabinet
+1	wall
+2	cabinet
+3	cabinet
+1	cabinet occluded
+1	cabinet occluded
+2	worktop
+2	cabinet
+1	wall
+2	window
+1	window
+0	plant pot
+0	plant pot
+2	 plant
+0	plant
+0	ceiling lamp
+1	floor
+0	wall
+0	pot
+1	coffee maker
+0	faucet
+0	cabinet
+0	cabinet
+0	cabinet
+1	Ceiling Fan
+1	Ceiling Lamp
+1	Window
+1	Microwave
+1	Cabinet
+1	light
+1	cutting board
+1	drawer
+1	platter
+1	handle
